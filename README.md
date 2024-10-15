@@ -20,3 +20,10 @@
   <li>Algorithm : Logistic regression</li>
   <li>Accuracy : 98.0</li>
 </ul>
+<br><br>
+
+# Customer Segmentation
+<ul>
+  <li>Algorithm : K-means clustering</li>
+</ul>
+<img width="560" height="300" src="https://github.com/user-attachments/assets/45828123-6f11-448a-94ec-eefed7c5e54a">
