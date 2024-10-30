@@ -7,6 +7,14 @@
 <img width="560" height="300" src="https://github.com/user-attachments/assets/7ea3d28e-519b-46d1-b900-2919b7d7ef8b">
 <br><br>
 
+# Sentiment analysis
+<ul>
+  <li>Algorithm : Recurrent Neural Network</li>
+  <li>Accuracy : 84.9</li>
+</ul>
+<img width="560" height="300" src="https://github.com/user-attachments/assets/e4931713-1975-408b-b769-58637ad9648e">
+<br><br>
+
 # Fashion classification
 <ul>
   <li>Algorithm : Convolutional Neural Network</li>
